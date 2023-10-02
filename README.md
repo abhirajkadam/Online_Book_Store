@@ -1,5 +1,5 @@
 # Online Book Store
-Webiste With advance feature of Reselling of Old Books. This is my second project created in Third Year (Semester 6)
+Website With advance feature of Reselling of Old Books. This is my second project created in Third Year (Semester 6)
 
 # What is Online Book Store?
 Online Book Store is to manage the details of Customer, Books,Delivery,Payment. It manages all the information about Books, Stocks Available, Payment, Managing the Books. The project is totally built at administrative and customer end and thus the administrator and the customer who resales book is guaranteed the access to sell books. The admin sells books on consignment, and generally pays publishers 40% of the list price for each unit sold. In exchange, the admin acts as warehouse, marketer, and shipping department. It sells books to libraries, wholesalers, and bookstores by means of website and its own sales force.
